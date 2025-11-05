@@ -1,3 +1,3 @@
 # hello-world
 This repository is for practicing the GitHub workflow
-I am delighted with what is being taught in the course
+No matter how difficult it is, we just have to persevere.
